@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "FuckingTamagui",
-    "slug": "FuckingTamagui",
+    "name": "TestingTamagui",
+    "slug": "TestingTamagui",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
