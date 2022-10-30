@@ -10,7 +10,9 @@ export default function App() {
 
 
   return (
+
       <TamaguiProvider config={config}>
+
         <SafeAreaProvider>
           <StatusBar/>
           <Text>Test</Text>
